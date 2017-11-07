@@ -1,4 +1,4 @@
-# koa-fileStore
+# koa-filestore
 
 > a FileStore use [flat-cache](https://github.com/royriojas/flat-cache) for [koa-session](https://github.com/koajs/session).
 
@@ -11,7 +11,7 @@
 
 ```js
 const Koa = require('koa');
-const FileStore = require('koa-fileStore');
+const FileStore = require('koa-filestore');
 const session = require('koa-session');
 const path = require('path');
 const app = new Koa();

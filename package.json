@@ -1,21 +1,21 @@
 {
-  "name": "koa-fileStore",
-  "version": "1.0.0",
-  "description": "koa-fileStore",
+  "name": "koa-filestore",
+  "version": "1.0.1",
+  "description": "koa-filestore",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ccqgithub/koa-fileStore.git"
+    "url": "git+https://github.com/ccqgithub/koa-filestore.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ccqgithub/koa-fileStore/issues"
+    "url": "https://github.com/ccqgithub/koa-filestore/issues"
   },
-  "homepage": "https://github.com/ccqgithub/koa-fileStore#readme",
+  "homepage": "https://github.com/ccqgithub/koa-filestore#readme",
   "dependencies": {
     "flat-cache": "^1.3.0",
     "uuid": "^3.1.0"
