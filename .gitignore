@@ -1,0 +1,12 @@
+*.log**
+*.pid
+*.seed
+
+.DS_Store
+.idea
+.tags**
+
+node_modules
+package-lock.json
+
+/public
