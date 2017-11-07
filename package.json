@@ -1,5 +1,5 @@
 {
-  "name": "koa-filestore",
+  "name": "koa-fileStore",
   "version": "1.0.0",
   "description": "koa-fileStore",
   "main": "index.js",
