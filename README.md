@@ -19,7 +19,6 @@ const app = new Koa();
 app.use(session({
   // other session config
   store: new FileStore({
-    cacheId: 'a unique id for flat-cache to store', // Not required.
     cacheDir: path.resolve(__dirname, './session/'), // Dir to store session files, unencrypted.
     maxAge: 86400000, // Default maxAge for session, used if the maxAge of `koa-session` is undefined, avoid the session's key in cookies is stolen.
   })
