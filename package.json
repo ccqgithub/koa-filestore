@@ -1,6 +1,6 @@
 {
   "name": "koa-filestore",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "koa-filestore",
   "main": "index.js",
   "scripts": {
