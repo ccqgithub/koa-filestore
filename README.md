@@ -9,7 +9,7 @@
 
 ## Not suggested to use for:
 
-- The amount of your site's users is very large.
+- The amount of your site's users is very large(you need use other stores like `koa-redis`...).
 - No sensitive session contents that can not store in cookie.
 
 ## requirement
